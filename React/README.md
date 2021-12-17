@@ -4,12 +4,7 @@
 React Commands
 
 
-# React
-
-React Commands
-
-
-## Commands and steps
+## Commands and Steps
 
 #### 1. Create new app
 
@@ -17,22 +12,21 @@ React Commands
 npx create-react-app my-app
 ```
 
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
 
-#### Get item
-
+#### 2.TO RUN THE APP:  In index.js, open the terminal and write
 ```http
-  GET /api/items/${id}
-```
+ npm start
+ ```
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+#### 3.TO CREATE APP FOR AND PRODUCTION:
+```http
+npm run build
+ ```
 
-#### add(num1, num2)
 
-Takes two numbers and returns the sum.
 
   
+## Lectures
+
+ - [1. Introduction to React JS + Installation | Complete React Course in Hindi](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ 
