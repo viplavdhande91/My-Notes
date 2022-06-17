@@ -22,7 +22,14 @@ React Commands
 ```http
 git commit -a -m "Direct Commit"
  ```
+#### 4.REMOVE FILE -> Removes files and adds automatically to staging area
+```http
+git rm "file.txt"
+ ```
 
+ #### 3.RENAME FILE-> Renames file name and adds automatically to staging area.```http
+git rm "file.txt" "filename1.txt"
+ ```
 
 
   
