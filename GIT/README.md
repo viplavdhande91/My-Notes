@@ -14,7 +14,7 @@ React Commands
 
 
 #### 2.Compares Staging area Files Vs Previous Commited Files
-```http
+```
  git diff --staged
  ```
 
