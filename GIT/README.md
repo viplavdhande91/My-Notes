@@ -130,7 +130,3 @@ git push origin bugfix:mybugfix
  ```
 git push -d origin bugfix
  ```
-## Lectures
-
- - [1. Introduction to React JS + Installation | Complete React Course in Hindi](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- 
