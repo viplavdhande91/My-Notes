@@ -1,12 +1,9 @@
 
-# React
+# ASP.NET
 
-React Commands
+ASP.NET CORE Commands
 
 
-# React
-
-React Commands
 
 
 ## Commands and steps
