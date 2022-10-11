@@ -120,9 +120,9 @@ git branch -D develop
  ```
 
  
-  #### 21. On remote pushes branch bugfix as mybugfix
+  #### 21. On remote deletes branch develop
  ```
-git push origin bugfix:mybugfix
+git push origin :develop
  ```
 
  
