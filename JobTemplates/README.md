@@ -33,8 +33,6 @@ Viplav Patil,
 Full Stack Developer
 
 
-
-#resume
 ```
 
 
@@ -57,6 +55,5 @@ Thank you for your time.
 Viplav Patil,
 Full Stack Developer
 
-#resume
 ```
 
