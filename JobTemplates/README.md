@@ -57,3 +57,32 @@ Full Stack Developer
 
 ```
 
+### Email for Asking Feedback [For Angular & .NET Full Stack]
+
+``` 
+Subject : About Feedback for the interview Opportunity
+Dear Sandeep,
+
+I hope this email finds you well. I wanted to take a moment to thank you for allowing me the opportunity to interview for the Full-stack Developer position at Hilti. I appreciate your time and consideration throughout the hiring process.
+
+I would like to kindly request your feedback on my interview performance. Your insights and observations will be invaluable in my professional development and future endeavors. I am eager to learn more about the areas where I excelled and the areas where I can improve.
+
+If possible, I would appreciate your feedback on the following aspects:
+
+1.  I would greatly appreciate any feedback you can provide regarding my problem-solving abilities in .NET and Angular.
+
+2. I would also be interested in hearing your thoughts on my ability[Concerned with Communication Skills].
+
+Please feel free to provide any additional comments or suggestions that you believe would be beneficial for my professional growth. Your feedback is crucial to my ongoing development, and I genuinely appreciate your time and consideration.
+
+Thank you once again for considering me for the position, and I look forward to your valuable feedback. I would be happy to discuss any further details or answer any questions you may have.
+
+Sincerely,
+
+Viplav Patil,
+Mobile:9421679707
+Nagarro,
+Regards.
+
+```
+
