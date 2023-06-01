@@ -5,7 +5,7 @@
 Dear Ayushi,
 I found your profile on Linkedin and wanted to reach out to
 discuss potentially working with your Company. I’m a Full Stack Developer[Angular, .NET, C#, Azure] with 2 Years of
-experience in Nagarro and currently exploring new job opportunities.
+experience with Nagarro and currently exploring new job opportunities.
 Looking forward to hearing from you.
 ```
 
@@ -86,3 +86,14 @@ Regards.
 
 ```
 
+
+### Linkedin Referral Connection Request Template[300 Words] [For Angular & .NET Full Stack]
+
+``` 
+Dear Ayushi,
+I found your profile on Linkedin and wanted to reach out to
+discuss potentially working with your Company. I’m a Full Stack Developer[Angular, .NET, C#, Azure] with 2 Years of
+experience with  Nagarro.Could you please refer me.
+Looking forward to hearing from you.
+
+```
