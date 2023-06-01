@@ -91,8 +91,8 @@ Regards.
 
 ``` 
 Dear Dushyant,
-I found your profile on Linkedin and wanted to reach out to
-discuss potentially working with your Company. I’m a Full Stack Developer[Angular, .NET, C#, Azure] with 2 Years of
+I’d love to connect with you professionally and wanted to reach out to
+discuss potentially working with your Company. Cheers!. I’m a Full Stack Developer[Angular, .NET, C#, Azure] with 2 Years of
 experience with  Nagarro. Could you please refer me?
 Looking forward to hearing from you.
 
