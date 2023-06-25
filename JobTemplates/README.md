@@ -1,4 +1,18 @@
 
+### Onsite Linkedin Connection Request Template[300 Words] [For Angular & .NET Full Stack]
+
+``` 
+Dear Stephan,
+I found your profile on Linkedin and wanted to reach out to
+discuss potentially working with your Company. I’m a Full Stack Developer[Angular, .NET, C#, Azure] with 4Years 2months of proven
+experience ins Software Developement and currently exploring onsite new job opportunities.
+Looking forward to hearing from you.
+```
+
+
+
+
+
 ### Linkedin Connection Request Template[300 Words] [For Angular & .NET Full Stack]
 
 ``` 
